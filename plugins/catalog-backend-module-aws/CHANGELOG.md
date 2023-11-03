@@ -1,5 +1,12 @@
 # @backstage/plugin-catalog-backend-module-aws
 
+## 0.3.1-next.2
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-kubernetes-common@0.7.1-next.1
+
 ## 0.3.1-next.1
 
 ### Patch Changes

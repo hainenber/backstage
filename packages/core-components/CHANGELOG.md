@@ -1,5 +1,11 @@
 # @backstage/core-components
 
+## 0.13.8-next.2
+
+### Patch Changes
+
+- 0c5b78650c: Reverting the `MissingAnnotationEmptyState` component due to cyclical dependency. This component is now deprecated, please use the import from `@backstage/plugin-catalog-react` instead to use the new functionality
+
 ## 0.13.8-next.1
 
 ### Patch Changes

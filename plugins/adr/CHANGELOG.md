@@ -1,5 +1,17 @@
 # @backstage/plugin-adr
 
+## 0.6.9-next.2
+
+### Patch Changes
+
+- fdb5e23602: Import `MissingAnnotationEmptyState` from `@backstage/plugin-catalog-react` to remove the cyclical dependency
+- Updated dependencies
+  - @backstage/core-components@0.13.8-next.2
+  - @backstage/plugin-catalog-react@1.9.0-next.2
+  - @backstage/frontend-plugin-api@0.3.0-next.2
+  - @backstage/integration-react@1.1.21-next.1
+  - @backstage/plugin-search-react@1.7.2-next.2
+
 ## 0.6.9-next.1
 
 ### Patch Changes

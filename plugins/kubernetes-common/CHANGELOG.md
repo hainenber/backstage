@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes-common
 
+## 0.7.1-next.1
+
+### Patch Changes
+
+- 62180df4ee: Allow storing dashboard parameters for kubernetes in catalog
+
 ## 0.7.1-next.0
 
 ### Patch Changes

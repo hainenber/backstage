@@ -1,5 +1,14 @@
 # @backstage/plugin-catalog-react
 
+## 1.9.0-next.2
+
+### Patch Changes
+
+- 6c357184e2: Export `MissingAnnotationEmptyState` from `@backstage/plugin-catalog-react`
+- Updated dependencies
+  - @backstage/core-components@0.13.8-next.2
+  - @backstage/frontend-plugin-api@0.3.0-next.2
+
 ## 1.9.0-next.1
 
 ### Patch Changes

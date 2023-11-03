@@ -1,5 +1,15 @@
 # @backstage/plugin-airbrake
 
+## 0.3.26-next.2
+
+### Patch Changes
+
+- fdb5e23602: Import `MissingAnnotationEmptyState` from `@backstage/plugin-catalog-react` to remove the cyclical dependency
+- Updated dependencies
+  - @backstage/core-components@0.13.8-next.2
+  - @backstage/plugin-catalog-react@1.9.0-next.2
+  - @backstage/dev-utils@1.0.23-next.2
+
 ## 0.3.26-next.1
 
 ### Patch Changes

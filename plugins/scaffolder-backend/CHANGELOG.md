@@ -1,5 +1,11 @@
 # @backstage/plugin-scaffolder-backend
 
+## 1.19.0-next.2
+
+### Patch Changes
+
+- ae30a9ae8c: Added description for publish:gerrit scaffolder actions
+
 ## 1.19.0-next.1
 
 ### Patch Changes

@@ -1,5 +1,18 @@
 # @backstage/plugin-api-docs
 
+## 0.10.0-next.2
+
+### Minor Changes
+
+- 0ac0e10822: Replace GraphiQL playground with DocExplorer
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/core-components@0.13.8-next.2
+  - @backstage/plugin-catalog-react@1.9.0-next.2
+  - @backstage/plugin-catalog@1.15.0-next.2
+
 ## 0.9.13-next.1
 
 ### Patch Changes
